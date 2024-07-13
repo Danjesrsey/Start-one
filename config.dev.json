@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "mldemmanuel46@gmail.com",
+    "password": "jaguard",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,23 +17,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61556006709662",
-    "100040138270035",
-    "61559134070491",
-    "100092290615996",
-    "61559134070491"
+    "100085261760009"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "authorName": "𝗥𝗼𝗖𝗞 𝗘𝘅𝗘",
-  "AGE": "20",
+  "authorName": "𝑀𝐿𝐷",
+  "AGE": "◎[▪‿▪]◎",
   "GENDER": "MALE",
-  "nickNameBot": "𝙔𝙤𝙪𝙧 𝙗𝙖𝙗𝙮",
-  "authorFB": "Pore add kormu",
-  "prefix": "!",
+  "nickNameBot": "🦄𝑩𝑨𝑹𝑩𝑰𝑬☆𝑩𝑶𝑻🦄",
+  "authorFB": "https://m.me/100085261760009",
+  "prefix": "'",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://mahmudabdullax7:ttnRAhj81JikbEw8@cluster0.zwknjau.mongodb.net/GoatBotV2?retryWrites=true&w=majority&appName=Cluster0",
