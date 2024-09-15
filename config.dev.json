@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "mldemmanuel46@gmail.com",
-    "password": "jaguard",
+    "email": "bankaibankai757@gmail.com ",
+    "password": "thebrock",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100085261760009"
+    "100083590576727"
   ],
   "whiteListMode": {
     "enable": false,
@@ -27,9 +27,9 @@
   "authorName": "𝑀𝐿𝐷",
   "AGE": "◎[▪‿▪]◎",
   "GENDER": "MALE",
-  "nickNameBot": "🦄𝑩𝑨𝑹𝑩𝑰𝑬☆𝑩𝑶𝑻🦄",
-  "authorFB": "https://m.me/100085261760009",
-  "prefix": "'",
+  "nickNameBot": "🦄𝐌𝐈𝐑𝐀☆𝑩𝑶𝑻🦄",
+  "authorFB": "https://www.facebook.com/Deving8g9d355",
+  "prefix": "~",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://mahmudabdullax7:ttnRAhj81JikbEw8@cluster0.zwknjau.mongodb.net/GoatBotV2?retryWrites=true&w=majority&appName=Cluster0",
